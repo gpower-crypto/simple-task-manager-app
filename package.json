@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/gpower-crypto/simple-task-manager-app/issues"
   },
-  "homepage": "https://github.com/gpower-crypto/simple-task-manager-app",
+  "homepage": "https://gpower-crypto.github.io/simple-task-manager-app",
   "dependencies": {
     "gh-pages": "^6.1.1",
     "react": "^18.2.0",

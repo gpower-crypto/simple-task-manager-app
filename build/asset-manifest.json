@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gpower-crypto/simple-task-manager-app/static/css/main.d3b7698a.css",
+    "main.js": "/gpower-crypto/simple-task-manager-app/static/js/main.7f8ba38e.js",
+    "index.html": "/gpower-crypto/simple-task-manager-app/index.html",
+    "main.d3b7698a.css.map": "/gpower-crypto/simple-task-manager-app/static/css/main.d3b7698a.css.map",
+    "main.7f8ba38e.js.map": "/gpower-crypto/simple-task-manager-app/static/js/main.7f8ba38e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b7698a.css",
+    "static/js/main.7f8ba38e.js"
+  ]
+}
