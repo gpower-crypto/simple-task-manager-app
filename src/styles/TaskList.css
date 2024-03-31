@@ -1,0 +1,52 @@
+.task-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.task-list-container h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.task-list {
+  list-style-type: none;
+  padding: 0;
+  width: 100%;
+  max-width: 400px;
+}
+
+.task-list li {
+  width: 100%;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+.task-list li:hover {
+  background-color: #e9e9e9;
+}
+
+.filter-container {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.priority-filter,
+.completion-filter {
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  font-size: 14px;
+}
+
+.priority-filter:focus,
+.completion-filter:focus {
+  outline: none;
+  border-color: #007bff;
+}

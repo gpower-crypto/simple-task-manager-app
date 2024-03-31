@@ -1,0 +1,51 @@
+.task-form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.task-form-container h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.task-form-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 400px;
+}
+
+.task-form-container label {
+  font-weight: bold;
+}
+
+.task-form-container input,
+.task-form-container textarea,
+.task-form-container select {
+  padding: 8px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.task-form-container button {
+  padding: 8px 16px;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  align-self: center;
+  width: 100%;
+  margin: 30px;
+  max-width: 200px;
+}
+
+.task-form-container button:hover {
+  background-color: #0056b3;
+}
