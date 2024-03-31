@@ -56,5 +56,3 @@ Follow these steps to set up and run the application locally:
 - This project was created using React for the frontend.
 - Tasks are stored locally using browser's localStorage.
 - Styling is done using CSS with modularized stylesheets.
-
-```
